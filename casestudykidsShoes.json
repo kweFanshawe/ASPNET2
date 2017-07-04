@@ -1,6 +1,6 @@
 [
   {
-    "ID": "AdidasSuperstar",
+    "ID": "123456789012345",
     "PRODUCT": "SuperstarFoundation Sneaker",
     "GRAPHIC": "",
     "PRICE": "45.87",
@@ -11,7 +11,7 @@
     "BRAND": "Adidas"
   },
   {
-    "ID": "AdidasSuperstar",
+    "ID": "123456789012345",
     "PRODUCT": "Tubular Shadow Sneaker",
     "GRAPHIC": "",
     "PRICE": "95.11",
@@ -23,7 +23,7 @@
   },
 
   {
-    "ID": "AdidasSuperstar",
+    "ID": "123456789012345",
     "PRODUCT": "Stan Smith Fashion I Sneaker",
     "GRAPHIC": "",
     "PRICE": "88.38",
@@ -35,7 +35,7 @@
   },
 
   {
-    "ID": "AdidasSuperstar",
+    "ID": "123456789012345",
     "PRODUCT": "'Adilette Plus' Sandal",
     "GRAPHIC": "",
     "PRICE": "40.72",
@@ -47,7 +47,7 @@
   },
 
   {
-    "ID": "AdidasStanSmith",
+    "ID": "123456789012345",
     "PRODUCT": "Stan Smith Leather Sneaker",
     "GRAPHIC": "",
     "PRICE": "54.39",
@@ -59,7 +59,7 @@
   },
 
   {
-    "ID": "NikeFreeRun345",
+    "ID": "123456789012345",
     "PRODUCT": "Nike Free Run 2017 Sneaker",
     "GRAPHIC": "",
     "PRICE": "45.87",
@@ -70,7 +70,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": "NikeFreeRun2ath",
+    "ID": "123456789012345",
     "PRODUCT": "Nike Free Run 2 Atheletic Shoe",
     "GRAPHIC": "",
     "PRICE": "95.11",
@@ -82,7 +82,7 @@
   },
 
   {
-    "ID": "NikeFreeRN2017S",
+    "ID": "123456789012345",
     "PRODUCT": "Nike Free RN 2017 Sneaker",
     "GRAPHIC": "",
     "PRICE": "88.38",
@@ -94,7 +94,7 @@
   },
 
   {
-    "ID": "NikeRosheRun345",
+    "ID": "123456789012345",
     "PRODUCT": "'Nike Roshe Run Sneaker",
     "GRAPHIC": "",
     "PRICE": "40.72",
@@ -106,7 +106,7 @@
   },
 
   {
-    "ID": "NikeAirMax12345",
+    "ID": "123456789012345",
     "PRODUCT": "Nike Air Max Tavas Sneaker",
     "GRAPHIC": "",
     "PRICE": "54.39",
@@ -118,7 +118,7 @@
   },
 
   {
-    "ID": "CROCBandClog45",
+    "ID": "123456789012345",
     "PRODUCT": "Crocband Clog",
     "GRAPHIC": "",
     "PRICE": "35.50",
@@ -129,7 +129,7 @@
     "BRAND": "CROCS"
   },
   {
-    "ID": "CROCSSwiftWATER",
+    "ID": "123456789012345",
     "PRODUCT": "Swiftwater Sandal",
     "GRAPHIC": "",
     "PRICE": "45.50",
@@ -141,7 +141,7 @@
   },
 
   {
-    "ID": "CROCSREDROKA17S",
+    "ID": "123456789012345",
     "PRODUCT": "CitiLane Roka Slip-On",
     "GRAPHIC": "",
     "PRICE": "75.50",
@@ -153,7 +153,7 @@
   },
 
   {
-    "ID": "CROCSIsabela345",
+    "ID": "123456789012345",
     "PRODUCT": "Isabella Novelty Sandal",
     "GRAPHIC": "",
     "PRICE": "40.00",
@@ -165,7 +165,7 @@
   },
 
   {
-    "ID": "CROCSFunStarW45",
+    "ID": "123456789012345",
     "PRODUCT": "Fun Lab Star Wars™ Clog",
     "GRAPHIC": "",
     "PRICE": "78.98",
@@ -177,7 +177,7 @@
   },
 
   {
-    "ID": "VANSCLASSICS45",
+    "ID": "123456789012345",
     "PRODUCT": "Classic Check Slip-On",
     "GRAPHIC": "",
     "PRICE": "39.99",
@@ -188,7 +188,7 @@
     "BRAND": "Vans"
   },
   {
-    "ID": "VANSOldSKoolSnk",
+    "ID": "123456789012345",
     "PRODUCT": "Old Skool Sneaker",
     "GRAPHIC": "",
     "PRICE": "50.50",
@@ -200,7 +200,7 @@
   },
 
   {
-    "ID": "VANSPeanutsC17S",
+    "ID": "123456789012345",
     "PRODUCT": "Peanuts Classic Slip-On",
     "GRAPHIC": "",
     "PRICE": "79.80",
@@ -212,7 +212,7 @@
   },
 
   {
-    "ID": "VANSLaceSnk2345",
+    "ID": "123456789012345",
     "PRODUCT": "Authentic Elastic Lace Sneaker",
     "GRAPHIC": "",
     "PRICE": "43.00",
@@ -224,7 +224,7 @@
   },
 
   {
-    "ID": "CROCSFunStarW45",
+    "ID": "123456789012345",
     "PRODUCT": "Slip-On Crib Shoe",
     "GRAPHIC": "",
     "PRICE": "33.98",
@@ -236,3 +236,4 @@
   }
 
 ]
+
