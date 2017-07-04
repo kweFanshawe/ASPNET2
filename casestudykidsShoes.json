@@ -2,7 +2,7 @@
   {
     "ID": "AdidasSuper0001",
     "PRODUCT": "SuperstarFoundation Sneaker",
-    "GRAPHIC": "",
+    "GRAPHIC": "Adidas1.jpg",
     "PRICE": "45.87",
     "MSRP": "74.78",
     "ONHAND": "10",
@@ -13,7 +13,7 @@
   {
     "ID": "123456789012345",
     "PRODUCT": "Tubular Shadow Sneaker",
-    "GRAPHIC": "",
+    "GRAPHIC": "Adidas2.jpg",
     "PRICE": "95.11",
     "MSRP": "135.11",
     "ONHAND": "55",
@@ -25,7 +25,7 @@
   {
     "ID": "123456789012346",
     "PRODUCT": "Stan Smith Fashion I Sneaker",
-    "GRAPHIC": "",
+    "GRAPHIC": "Adidas3.jpg",
     "PRICE": "88.38",
     "MSRP": "135.11",
     "ONHAND": "55",
@@ -37,7 +37,7 @@
   {
     "ID": "123456789012347",
     "PRODUCT": "'Adilette Plus' Sandal",
-    "GRAPHIC": "",
+    "GRAPHIC": "Adidas4.jpg",
     "PRICE": "40.72",
     "MSRP": "50.72",
     "ONHAND": "10",
@@ -49,7 +49,7 @@
   {
     "ID": "123456789012348",
     "PRODUCT": "Stan Smith Leather Sneaker",
-    "GRAPHIC": "",
+    "GRAPHIC": "Adidas5.jpg",
     "PRICE": "54.39",
     "MSRP": "88.31",
     "ONHAND": "20",
