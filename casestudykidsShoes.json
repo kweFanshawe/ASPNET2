@@ -1,22 +1,24 @@
 [
    {
-      "PRODUCT":"Superstar - Foundation Sneaker",
+      "ID":"123456789012345",
+      "PRODUCT":"SuperstarFoundation Sneaker",
       "GRAPHIC":"",
       "PRICE":"45.87",
       "MSRP":"74.78",
       "ONHAND":"10",
-	    "BACKORDER":"200",
+       "BACKORDER":"200",
       "DESCRIPTION":"Bold stripes and a golden trefoil logo patch at the tongue add signature style to a smooth leather sneaker made with a textured rubber cap toe.",
 	    "BRAND":"Adidas"
    },
    
       {
-      "PRODUCT":"Stan Smith' Leather Sneaker",
+      "ID":"123456789012346",	      
+      "PRODUCT":"Stan Smith Leather Sneaker",
       "GRAPHIC":"",
       "PRICE":"54.39",
       "MSRP":"88.31",
       "ONHAND":"20",
-	    "BACKORDER":"200",
+      "BACKORDER":"200",
       "DESCRIPTION":"Perforated stripes detail the sides of an iconic tennis shoe updated in full-grain leather and finished with a moisture-wicking OrthoLite® insole.",
 	    "BRAND":"Adidas"
    }
