@@ -11,7 +11,7 @@
     "BRAND": "Adidas"
   },
   {
-    "ID": "AdidasSuper0002",
+    "ID": "123456789012345",
     "PRODUCT": "Tubular Shadow Sneaker",
     "GRAPHIC": "",
     "PRICE": "95.11",
@@ -23,7 +23,7 @@
   },
 
   {
-    "ID": "AdidasSuper0003",
+    "ID": "123456789012346",
     "PRODUCT": "Stan Smith Fashion I Sneaker",
     "GRAPHIC": "",
     "PRICE": "88.38",
@@ -35,7 +35,7 @@
   },
 
   {
-    "ID": "AdidasSuper0004",
+    "ID": "1234567890123457",
     "PRODUCT": "'Adilette Plus' Sandal",
     "GRAPHIC": "",
     "PRICE": "40.72",
@@ -47,7 +47,7 @@
   },
 
   {
-    "ID": "AdidasStanSmith",
+    "ID": "1234567890123458",
     "PRODUCT": "Stan Smith Leather Sneaker",
     "GRAPHIC": "",
     "PRICE": "54.39",
