@@ -35,7 +35,7 @@
   },
 
   {
-    "ID": "123456789012345",
+    "ID": "123456789012346",
     "PRODUCT": "'Adilette Plus' Sandal",
     "GRAPHIC": "",
     "PRICE": "40.72",
@@ -47,7 +47,7 @@
   },
 
   {
-    "ID": "123456789012345",
+    "ID": "123456789012347",
     "PRODUCT": "Stan Smith Leather Sneaker",
     "GRAPHIC": "",
     "PRICE": "54.39",
@@ -56,183 +56,6 @@
     "BACKORDER": "200",
     "DESCRIPTION": "Perforated stripes detail the sides of an iconic tennis shoe updated in full-grain leather and finished with a moisture-wicking OrthoLite® insole.",
     "BRAND": "Adidas"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Nike Free Run 2017 Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "45.87",
-    "MSRP": "74.78",
-    "ONHAND": "10",
-    "BACKORDER": "200",
-    "DESCRIPTION": "Baby, Walker, Toddle & Little kid",
-    "BRAND": "Nike"
-  },
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Nike Free Run 2 Atheletic Shoe",
-    "GRAPHIC": "",
-    "PRICE": "95.11",
-    "MSRP": "135.11",
-    "ONHAND": "55",
-    "BACKORDER": "250",
-    "DESCRIPTION": "Simple classic design.",
-    "BRAND": "Nike"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Nike Free RN 2017 Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "88.38",
-    "MSRP": "135.11",
-    "ONHAND": "55",
-    "BACKORDER": "250",
-    "DESCRIPTION": "A kid-size version of a high-performance icon, this ultra-lightweight sneaker is crafted with a seamless mesh upper for breathable comfort.",
-    "BRAND": "Nike"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "'Nike Roshe Run Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "40.72",
-    "MSRP": "50.72",
-    "ONHAND": "10",
-    "BACKORDER": "250",
-    "DESCRIPTION": "Cast in a neo-futuristic silhouette, a sleek sneaker features lightweight mesh construction and no-frills design.",
-    "BRAND": "Nike"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Nike Air Max Tavas Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "54.39",
-    "MSRP": "88.31",
-    "ONHAND": "20",
-    "BACKORDER": "200",
-    "DESCRIPTION": "Popular design(Cool Grey/Wolf Grey)",
-    "BRAND": "Nike"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Crocband Clog",
-    "GRAPHIC": "",
-    "PRICE": "35.50",
-    "MSRP": "50.00",
-    "ONHAND": "15",
-    "BACKORDER": "200",
-    "DESCRIPTION": "A contrast sole provides an athletic update for a go-to clog designed to provide ergonomic comfort and support.",
-    "BRAND": "CROCS"
-  },
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Swiftwater Sandal",
-    "GRAPHIC": "",
-    "PRICE": "45.50",
-    "MSRP": "65.50",
-    "ONHAND": "55",
-    "BACKORDER": "250",
-    "DESCRIPTION": "Lightweight clog-sandals feature a quick-drying mesh upper and cushy Croslite® soles with a protective bumper at the toe.",
-    "BRAND": "CROCS"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "CitiLane Roka Slip-On",
-    "GRAPHIC": "",
-    "PRICE": "75.50",
-    "MSRP": "95.50",
-    "ONHAND": "30",
-    "BACKORDER": "300",
-    "DESCRIPTION": "An easygoing slip-on with stretchy elastic-gore insets and original Croslite™ cushioning features a perforated upper for great ventilation.",
-    "BRAND": "CROCS"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Isabella Novelty Sandal",
-    "GRAPHIC": "",
-    "PRICE": "40.00",
-    "MSRP": "50.00",
-    "ONHAND": "10",
-    "BACKORDER": "250",
-    "DESCRIPTION": "A sweet cherry embellishment marks the translucent, sparkling upper of this adorable sandal.",
-    "BRAND": "CROCS"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Fun Lab Star Wars™ Clog",
-    "GRAPHIC": "",
-    "PRICE": "78.98",
-    "MSRP": "98.98",
-    "ONHAND": "15",
-    "BACKORDER": "200",
-    "DESCRIPTION": "Unique Desgin (Navy)",
-    "BRAND": "CROCS"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Classic Check Slip-On",
-    "GRAPHIC": "",
-    "PRICE": "39.99",
-    "MSRP": "50.00",
-    "ONHAND": "50",
-    "BACKORDER": "150",
-    "DESCRIPTION": "A signature checkerboard print on the vamp and heel amps up the retro vibe of a go-to canvas slip-on.",
-    "BRAND": "Vans"
-  },
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Old Skool Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "50.50",
-    "MSRP": "70.50",
-    "ONHAND": "35",
-    "BACKORDER": "300",
-    "DESCRIPTION": "Bright colors update an iconic skater sneaker in a kid-size version that will keep her looking cool everywhere she goes.",
-    "BRAND": "Vans"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Peanuts Classic Slip-On",
-    "GRAPHIC": "",
-    "PRICE": "79.80",
-    "MSRP": "105.80",
-    "ONHAND": "30",
-    "BACKORDER": "300",
-    "DESCRIPTION": "Vans teams up with Peanuts to bring the charm of the beloved comic strip to a favorite sneaker.",
-    "BRAND": "Vans"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Authentic Elastic Lace Sneaker",
-    "GRAPHIC": "",
-    "PRICE": "43.00",
-    "MSRP": "57.00",
-    "ONHAND": "70",
-    "BACKORDER": "250",
-    "DESCRIPTION": "A monochromatic palette adds to the skater-cool personality of a classic sneaker styled with elastic lacing and a pull-tab at the heel for easy on and off.",
-    "BRAND": "Vans"
-  },
-
-  {
-    "ID": "123456789012345",
-    "PRODUCT": "Slip-On Crib Shoe",
-    "GRAPHIC": "",
-    "PRICE": "33.98",
-    "MSRP": "53.98",
-    "ONHAND": "76",
-    "BACKORDER": "200",
-    "DESCRIPTION": "Signature retro styling defines a slip-on crib shoe outfitted with a hook-and-loop strap and heel pull for easy on and off.",
-    "BRAND": "Vans"
   }
 
 ]
