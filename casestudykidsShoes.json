@@ -66,7 +66,7 @@
     "PRICE": "74.78",
     "ONHAND": "10",
     "BACKORDER": "200",
-    "DESCRIPTION": "Comfy fashaionable Sneaker and Baby, Walker, Toddle & Little kid",
+    "DESCRIPTION": "Comfy fashaionable Sneaker and Baby, Walker, Toddle and Little kid",
     "BRAND": "Nike"
   },
   {
@@ -95,13 +95,13 @@
 
   {
     "ID": "NikeRosheRun345",
-    "PRODUCT": "'Nike Roshe Run Sneaker",
+    "PRODUCT": "Nike Roshe Run Sneaker",
     "GRAPHIC": "Nike4.jpg",
     "MSRP": "40.72",
     "PRICE": "50.72",
     "ONHAND": "10",
     "BACKORDER": "250",
-    "DESCRIPTION": "Cast in a neo-futuristic silhouette, a sleek sneaker features lightweight mesh construction and no-frills design.",
+    "DESCRIPTION": "Cast in a neo futuristic silhouette, a sleek sneaker features lightweight mesh construction and no frills design.",
     "BRAND": "Nike"
   },
 
@@ -125,7 +125,7 @@
     "PRICE": "50.00",
     "ONHAND": "15",
     "BACKORDER": "200",
-    "DESCRIPTION": "A contrast sole provides an athletic update for a go-to clog designed to provide ergonomic comfort and support.",
+    "DESCRIPTION": "A contrast sole provides an athletic update for a go to clog designed to provide ergonomic comfort and support.",
     "BRAND": "CROCS"
   },
   {
@@ -136,7 +136,7 @@
     "PRICE": "65.50",
     "ONHAND": "55",
     "BACKORDER": "250",
-    "DESCRIPTION": "Lightweight clog-sandals feature a quick-drying mesh upper and cushy Croslite® soles with a protective bumper at the toe.",
+    "DESCRIPTION": "Lightweight clog sandals feature a quick-drying mesh upper and cushy Croslite soles with a protective bumper at the toe.",
     "BRAND": "CROCS"
   },
 
@@ -148,7 +148,7 @@
     "PRICE": "95.50",
     "ONHAND": "30",
     "BACKORDER": "300",
-    "DESCRIPTION": "An easygoing slip-on with stretchy elastic-gore insets and original Croslite™ cushioning features a perforated upper for great ventilation.",
+    "DESCRIPTION": "An easygoing slip-on with stretchy elastic gore insets and original Croslite cushioning features a perforated upper for great ventilation.",
     "BRAND": "CROCS"
   },
 
